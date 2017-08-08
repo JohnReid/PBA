@@ -1,5 +1,6 @@
 import numpy as np
-import os, matplotlib.pyplot as plt
+import os
+import matplotlib.pyplot as plt
 
 
 def load_edge_list(path):
